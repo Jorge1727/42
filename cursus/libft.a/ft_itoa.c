@@ -1,6 +1,6 @@
 #include "libft.h"
 
-char *ft_strrven(char *str)
+char *ft_strrev(char *str)
 {
 	int i;
 	int size;
